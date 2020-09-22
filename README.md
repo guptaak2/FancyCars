@@ -10,11 +10,10 @@ Android Architecture Components used:
 - Paging 3
 
 Explanation of classes:
-- `Car` and `CarAvailability` are data classes used to represent the objects. Note: in `CarAvailability`, I wanted to use the `Availability` enum for `availability` property but there were issues parsing the value when I tried to update the car with `availability`. I implemented the `@TypeConverters` but it didn't fix the issue.
-- `CarDAO` and `CarAvailabilityDAO` are Data Access Objects. They hold queries that are made on `CarDatabase` and
-`CarAvailabilityDatabase` respectively.
+- `Car` and `CarAvailability` are data classes used to represent the objects. Note: in `CarAvailability`, I wanted to use the `Availability` enum for `availability` property but there were issues parsing the value when I tried to `updateCar()` with `availability`. I implemented the `@TypeConverters` but it didn't fix the issue.
+- `CarDAO` and `CarAvailabilityDAO` are Data Access Objects. They hold queries that are made on `CarDatabase` and`CarAvailabilityDatabase` respectively.
 - Since I'm using Room, all tables/data are stored locally on device.
-- `CarRepository` and `CarAvailabilityRepository` are repository classes than have `CarDao` and `CarAvailabilityDao` passed in respectively. We can add other data sources here. Eg: multiple dealerships/locations
+- `CarRepository` and `CarAvailabilityRepository` are repository classes that have `CarDao` and `CarAvailabilityDao` passed in respectively. We can add other data sources here. Eg: multiple dealerships/locations
 - I've add CRUD methods for the Dao's, Repositories and ViewModel for completeness.
 - `CarDatabase` and `CarAvailabilityDatabase` contain boiler-plate code in order to create a singleton instance of the Databases. They are marked `@Volatile` so that all writes to the databases are immediately made available to all threads.
 - `CarViewModel` contains majority of the application functionality.
