@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "availability": "Out of stock"
+  },
+  {
+    "id": 2,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 3,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 4,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 5,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 6,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 7,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 8,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 9,
+    "availability": "Out of stock"
+  },
+  {
+    "id": 10,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 11,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 12,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 13,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 14,
+    "availability": "Out of stock"
+  },
+  {
+    "id": 15,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 16,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 17,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 18,
+    "availability": "Out of stock"
+  },
+  {
+    "id": 19,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 20,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 21,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 22,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 23,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 24,
+    "availability": "Out of stock"
+  },
+  {
+    "id": 25,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 26,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 27,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 28,
+    "availability": "Unavailable"
+  },
+  {
+    "id": 29,
+    "availability": "In Dealership"
+  },
+  {
+    "id": 30,
+    "availability": "Unavailable"
+  }
+]
+

@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.racv.com.au/content/dam/racv/images/royalauto-2019/moving/cars/general/australias-best-cars-2019/sports-under-125k/Supr.jpg",
+    "name": "My Fancy Car 1",
+    "make": "MyMake 1",
+    "model": "MyModel 1",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 2,
+    "img": "https://static.dezeen.com/uploads/2019/07/lotus-evija-car-design_dezeen_2364_sq-1-411x411.jpg",
+    "name": "My Fancy Car 2",
+    "make": "MyMake 2",
+    "model": "MyModel 2",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 3,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCn11lw38jRjoZ2gt2OvGPp5gXypZWYS7XCQ&usqp=CAU",
+    "name": "My Fancy Car 3",
+    "make": "MyMake 3",
+    "model": "MyModel 3",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 4,
+    "img": "https://i.pinimg.com/736x/09/6f/75/096f75fcc35b24fbd81a9e2a85deaccf.jpg",
+    "name": "My Fancy Car 4",
+    "make": "MyMake 4",
+    "model": "MyModel 4",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 5,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 5",
+    "make": "MyMake 5",
+    "model": "MyModel 5",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 6,
+    "img": "https://www.racv.com.au/content/dam/racv/images/royalauto-2019/moving/cars/general/australias-best-cars-2019/sports-under-125k/Supr.jpg",
+    "name": "My Fancy Car 6",
+    "make": "MyMake 6",
+    "model": "MyModel 6",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 7,
+    "img": "https://static.dezeen.com/uploads/2019/07/lotus-evija-car-design_dezeen_2364_sq-1-411x411.jpg",
+    "name": "My Fancy Car 7",
+    "make": "MyMake 7",
+    "model": "MyModel 7",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 8,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCn11lw38jRjoZ2gt2OvGPp5gXypZWYS7XCQ&usqp=CAU",
+    "name": "My Fancy Car 8",
+    "make": "MyMake 8",
+    "model": "MyModel 8",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 9,
+    "img": "https://i.pinimg.com/736x/09/6f/75/096f75fcc35b24fbd81a9e2a85deaccf.jpg",
+    "name": "My Fancy Car 9",
+    "make": "MyMake 9",
+    "model": "MyModel 9",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 10,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 10",
+    "make": "MyMake 10",
+    "model": "MyModel 10",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 11,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 11",
+    "make": "MyMake 11",
+    "model": "MyModel 11",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 12,
+    "img": "https://www.racv.com.au/content/dam/racv/images/royalauto-2019/moving/cars/general/australias-best-cars-2019/sports-under-125k/Supr.jpg",
+    "name": "My Fancy Car 12",
+    "make": "MyMake 12",
+    "model": "MyModel 12",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 13,
+    "img": "https://static.dezeen.com/uploads/2019/07/lotus-evija-car-design_dezeen_2364_sq-1-411x411.jpg",
+    "name": "My Fancy Car 13",
+    "make": "MyMake 13",
+    "model": "MyModel 13",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 14,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCn11lw38jRjoZ2gt2OvGPp5gXypZWYS7XCQ&usqp=CAU",
+    "name": "My Fancy Car 14",
+    "make": "MyMake 14",
+    "model": "MyModel 14",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 15,
+    "img": "https://i.pinimg.com/736x/09/6f/75/096f75fcc35b24fbd81a9e2a85deaccf.jpg",
+    "name": "My Fancy Car 15",
+    "make": "MyMake 15",
+    "model": "MyModel 15",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 16,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 16",
+    "make": "MyMake 16",
+    "model": "MyModel 16",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 17,
+    "img": "https://static.dezeen.com/uploads/2019/07/lotus-evija-car-design_dezeen_2364_sq-1-411x411.jpg",
+    "name": "My Fancy Car 17",
+    "make": "MyMake 17",
+    "model": "MyModel 17",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 18,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCn11lw38jRjoZ2gt2OvGPp5gXypZWYS7XCQ&usqp=CAU",
+    "name": "My Fancy Car 18",
+    "make": "MyMake 18",
+    "model": "MyModel 18",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 19,
+    "img": "https://i.pinimg.com/736x/09/6f/75/096f75fcc35b24fbd81a9e2a85deaccf.jpg",
+    "name": "My Fancy Car 19",
+    "make": "MyMake 19",
+    "model": "MyModel 19",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 20,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 20",
+    "make": "MyMake 20",
+    "model": "MyModel 20",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 21,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 21",
+    "make": "MyMake 21",
+    "model": "MyModel 21",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 22,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 22",
+    "make": "MyMake 22",
+    "model": "MyModel 22",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 23,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 23",
+    "make": "MyMake 23",
+    "model": "MyModel 23",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 24,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 24",
+    "make": "MyMake 24",
+    "model": "MyModel 24",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 25,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 25",
+    "make": "MyMake 25",
+    "model": "MyModel 25",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 26,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 26",
+    "make": "MyMake 26",
+    "model": "MyModel 26",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 27,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 27",
+    "make": "MyMake 27",
+    "model": "MyModel 27",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 28,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 28",
+    "make": "MyMake 28",
+    "model": "MyModel 28",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 29,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 29",
+    "make": "MyMake 29",
+    "model": "MyModel 29",
+    "year": "2018",
+    "availability": "In Dealership"
+  },
+  {
+    "id": 30,
+    "img": "https://s.abcnews.com/images/Business/mustang-ht-ml-190114_hpMain_1x1_608.jpg",
+    "name": "My Fancy Car 30",
+    "make": "MyMake 30",
+    "model": "MyModel 30",
+    "year": "2018",
+    "availability": "In Dealership"
+  }
+]
+
